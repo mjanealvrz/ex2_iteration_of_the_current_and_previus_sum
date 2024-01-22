@@ -18,7 +18,7 @@ for current_number in range(0, 20, 2):
     print("The previous number is " + str(previous_number), "The current value of " + str(current_number) , "The sum is " + str(sum) ) 
 
     #Update the previous_number for the next iteration
-    
+    previous_number = current_number
    
         
     
