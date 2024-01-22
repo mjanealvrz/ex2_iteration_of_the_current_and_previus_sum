@@ -3,6 +3,8 @@
 #Pseudocode
 
 # Set a starting point
+print("Printing current and previous number sum in a range(10)")
+
 # Set the previous number to 0
 # # Create an loop for 10 numbers that is even numbers  (start = 0, stop = 20, step = 2)
     # Create an arithemtic expression to express the sum of previous and current number
